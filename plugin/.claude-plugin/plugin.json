@@ -11,5 +11,16 @@
   "homepage": "https://upinvoice.eu/developers",
   "repository": "https://github.com/upinvoice/skills",
   "license": "MIT",
-  "keywords": ["invoice", "ocr", "invoice-extraction", "purchase-order", "dolibarr", "erp", "accounting"]
+  "keywords": [
+    "invoice",
+    "ocr",
+    "invoice-extraction",
+    "purchase-order",
+    "dolibarr",
+    "erp",
+    "accounting"
+  ],
+  "privacyPolicyUrl": "https://upinvoice.eu/privacy-policy",
+  "supportUrl": "https://github.com/upinvoice/skills/issues",
+  "documentationUrl": "https://upinvoice.eu/developers"
 }
