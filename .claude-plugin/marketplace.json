@@ -9,7 +9,9 @@
     {
       "name": "upinvoice-api",
       "description": "Extract supplier invoices, purchase orders and customer orders (PDF or image) with the UpInvoice API.",
-      "source": "./"
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/upinvoice-api"]
     }
   ]
 }
