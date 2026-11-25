@@ -1,0 +1,15 @@
+{
+  "name": "upinvoice-api",
+  "displayName": "UpInvoice",
+  "description": "Extract supplier invoices, purchase orders and customer orders (PDF or image) into structured JSON with the UpInvoice API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UpInvoice",
+    "email": "info@upinvoice.eu",
+    "url": "https://upinvoice.eu"
+  },
+  "homepage": "https://upinvoice.eu/developers",
+  "repository": "https://github.com/upinvoice/skills",
+  "license": "MIT",
+  "keywords": ["invoice", "ocr", "invoice-extraction", "purchase-order", "dolibarr", "erp", "accounting"]
+}
